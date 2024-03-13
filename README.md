@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Prakash Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.giphy.com/media/K5kfQEx" alt="">
+
 
 - 🌱 I’m currently learning **Front-End Developer**
 
